@@ -1,1 +1,7 @@
-# Dou
+# EmptyGame
+
+Usage:
+
+npm install
+
+gulp
